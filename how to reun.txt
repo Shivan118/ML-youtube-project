@@ -1,0 +1,13 @@
+1. Create new env
+conda create -n env_name python==3.6.9
+
+2. activate your env
+ 
+ conda activate env_name
+
+ 3. Install requirements.texture
+
+ pip install -r requirements.texture
+
+ 4. run your app.py Filet
+ 
